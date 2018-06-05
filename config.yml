@@ -1,0 +1,28 @@
+swipe:
+  3:
+     left:
+       shortcut: 'alt+Left'
+     right:
+       shortcut: 'alt+Right'
+     up:
+       shortcut: 'ctrl+super+d'
+     down:
+       shortcut: 'alt+F1'
+  4:
+     left:
+       shortcut: 'ctrl+w'
+     right:
+       shortcut: 'alt+F4'
+     up:
+       shortcut: 'ctrl+super+Up'
+     down:
+       shortcut: 'ctrl+super+Down'
+pinch:
+  in:
+    shortcut: 'ctrl+plus'
+  out:
+    shortcut: 'ctrl+minus'
+
+threshold:
+  swipe: 0.2
+  pinch: 0.8
